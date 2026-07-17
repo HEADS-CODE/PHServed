@@ -1,0 +1,2 @@
+# Do not upload the actual email password.
+config/mail_credentials.php
